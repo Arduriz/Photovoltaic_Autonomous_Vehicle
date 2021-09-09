@@ -10,6 +10,7 @@
 ## 자율주행 자동차 제작
 ### 알고리즘 설계
 ![image](https://user-images.githubusercontent.com/65582244/132712312-4976347e-1d0c-4d59-97f4-4a5613b93dfb.png)
+
 ![image](https://user-images.githubusercontent.com/65582244/132712326-1f7b0949-9cdd-4ef2-b9ea-db05cdfe6fa2.png)
 
 ### 회로설계
@@ -77,9 +78,11 @@ https://github.com/choi92/Ard-PhotovoltaicAutonomousVehicle/blob/master/Photovol
 
 ### 리튬이온전지의 온도에 따른 효율 탐구
 50℃, 80℃ 열풍기, 0℃ 얼음, -50℃ 드라이 아이스를 이용헤 온도에 따른 전압을 비교해본다.
+
  |-50℃|0℃|상온|50℃|80℃
  :---:|:---:|:---:|:---:|:---:|:---:|
 평균 전압(V)|3.585|3.591|3.6|3.602|3.606
+
 이러한 결과를 보면 차이가 크진 않지만 적당한 온도에서 전압값이 높게 측정된다.
 
 ### 리튬이온전지의 효율 개선 방안 탐구
