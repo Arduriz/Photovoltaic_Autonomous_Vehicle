@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/65582244/132712326-1f7b0949-9cdd-4ef2-b9ea-db05cdfe6fa2.png)
 
 ### 회로설계
-![image](https://user-images.githubusercontent.com/65582244/132711887-71b3f8eb-a736-4754-8e31-7f4905a0a6e3.png)
+![image](https://user-images.githubusercontent.com/65582244/132711887-71b3f8eb-a736-4754-8e31-7f4905a0a6e3.png) <br>
 **HC-06이 브레드보드에서 잘못 연결되어 있지만 실제로는 제대로 연결함**
 - 3.7V, 2600mAh인 18650 리튬 이온 전지 2개를 이용하여 7.4V의 전원을 공급해준다.
 - 하비 기어모터를 좌우에 각각 2개씩 연결한다.
