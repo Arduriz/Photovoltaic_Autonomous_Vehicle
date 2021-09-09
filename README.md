@@ -71,7 +71,7 @@ https://github.com/choi92/Ard-PhotovoltaicAutonomousVehicle/blob/master/Photovol
 ### 소스 코드
 https://github.com/choi92/Ard-PhotovoltaicAutonomousVehicle/blob/master/PhotovoltaicAutonomousVehicle_ChargeCenter.ino
 
-## 구동
+## 구동 모습
 ![image](https://user-images.githubusercontent.com/65582244/132714568-614c8983-aa7b-4b90-90ca-1c400c559996.png)
 
 ***
